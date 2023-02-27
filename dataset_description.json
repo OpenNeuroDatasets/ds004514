@@ -1,0 +1,10 @@
+{
+    "Name": "Simultaneous recordings of EEG and fNIRS of semantic categories of imagined concepts of animals and tools",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Milan Rybář",
+        "Riccardo Poli",
+        "Ian Daly"
+    ]
+}
