@@ -6,5 +6,7 @@
         "Milan Rybář",
         "Riccardo Poli",
         "Ian Daly"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004514.v1.0.0",
+    "License": "CC0"
 }
