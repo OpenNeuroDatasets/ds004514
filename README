@@ -30,6 +30,10 @@ Two different montages were used: frontal and temporal, see references for more 
 Folder 'stimuli' contains all images of the semantic categories of animals and tools presented to participants.
 
 
+### Example code
+We have prepared example scripts to demonstrate how to load the EEG and fNIRS data into Python using MNE and MNE-BIDS packages. These scripts are located in the 'code' directory.
+
+
 ### References
 This dataset was analyzed in the following publications:
 
