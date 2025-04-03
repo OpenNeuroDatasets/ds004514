@@ -1,0 +1,21 @@
+{
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows 10",
+        "SoftwareName": "Matlab",
+        "SoftwareRRID": "RRID:SCR_001622",
+        "SoftwareVersion": "R2018a",
+        "Code": "n/a",
+        "ScreenDistance": "n/a",
+        "ScreenRefreshRate": 60,
+        "ScreenResolution": [2560, 1440],
+        "ScreenSize": "n/a"
+    },
+   "value": {
+       "LongName": "The event code",
+       "Description": "The event code (also known as trigger code or event ID) associated with the event."
+   },
+   "sample": {
+       "LongName": "The event onset sample time",
+       "Description": "The event onset time in number of sampling points. First sample is 0."
+   }
+}
