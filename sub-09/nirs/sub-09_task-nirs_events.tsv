@@ -269,7 +269,7 @@ onset	duration	trial_type	value	sample	stim_file
 806.9599999999999	n/a	animal_silent_naming_task	601	7205	n/a
 809.9839999999999	n/a	blank_black_screen	706	7232	n/a
 812.0	n/a	fixation_cross	312	7250	n/a
-813.68	n/a	tool_image	1	7265	tools/сorkscrew_PNG43.png
+813.68	n/a	tool_image	1	7265	tools/corkscrew_PNG43.png
 814.352	n/a	mask	701	7271	n/a
 814.9119999999999	n/a	blank_white_screen	705	7276	n/a
 815.36	n/a	tool_tactile_imagery_task	604	7280	n/a
@@ -469,7 +469,7 @@ onset	duration	trial_type	value	sample	stim_file
 1212.064	n/a	animal_visual_imagery_task	602	10822	n/a
 1215.088	n/a	blank_black_screen	706	10849	n/a
 1216.992	n/a	fixation_cross	312	10866	n/a
-1218.4479999999999	n/a	tool_image	1	10879	tools/сorkscrew_PNG43.png
+1218.4479999999999	n/a	tool_image	1	10879	tools/corkscrew_PNG43.png
 1219.12	n/a	mask	701	10885	n/a
 1219.68	n/a	blank_white_screen	705	10890	n/a
 1220.24	n/a	tool_tactile_imagery_task	604	10895	n/a
@@ -553,7 +553,7 @@ onset	duration	trial_type	value	sample	stim_file
 1334.9279999999999	n/a	tool_visual_imagery_task	602	11919	n/a
 1337.952	n/a	blank_black_screen	706	11946	n/a
 1339.968	n/a	fixation_cross	312	11964	n/a
-1341.536	n/a	tool_image	1	11978	tools/сorkscrew_PNG43.png
+1341.536	n/a	tool_image	1	11978	tools/corkscrew_PNG43.png
 1342.2079999999999	n/a	mask	701	11984	n/a
 1342.768	n/a	blank_white_screen	705	11989	n/a
 1343.216	n/a	tool_tactile_imagery_task	604	11993	n/a
@@ -1257,7 +1257,7 @@ onset	duration	trial_type	value	sample	stim_file
 2839.872	n/a	animal_visual_imagery_task	602	25356	n/a
 2842.8959999999997	n/a	blank_black_screen	706	25383	n/a
 2844.7999999999997	n/a	fixation_cross	312	25400	n/a
-2846.0319999999997	n/a	tool_image	1	25411	tools/сorkscrew_PNG43.png
+2846.0319999999997	n/a	tool_image	1	25411	tools/corkscrew_PNG43.png
 2846.7039999999997	n/a	mask	701	25417	n/a
 2847.264	n/a	blank_white_screen	705	25422	n/a
 2847.824	n/a	tool_tactile_imagery_task	604	25427	n/a
@@ -1577,7 +1577,7 @@ onset	duration	trial_type	value	sample	stim_file
 3464.72	n/a	animal_visual_imagery_task	602	30935	n/a
 3467.7439999999997	n/a	blank_black_screen	706	30962	n/a
 3469.7599999999998	n/a	fixation_cross	312	30980	n/a
-3470.9919999999997	n/a	tool_image	1	30991	tools/сorkscrew_PNG43.png
+3470.9919999999997	n/a	tool_image	1	30991	tools/corkscrew_PNG43.png
 3471.5519999999997	n/a	mask	701	30996	n/a
 3472.2239999999997	n/a	blank_white_screen	705	31002	n/a
 3472.672	n/a	tool_silent_naming_task	601	31006	n/a
