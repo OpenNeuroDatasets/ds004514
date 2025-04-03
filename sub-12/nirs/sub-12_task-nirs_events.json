@@ -11,11 +11,11 @@
         "ScreenSize": "n/a"
     },
    "value": {
-       "LongName": "Raw trigger value",
-       "Description": "Raw trigger value in the BDF file"
+       "LongName": "The event code",
+       "Description": "The event code (also known as trigger code or event ID) associated with the event."
    },
    "sample": {
-       "LongName": "Sample index of the event in the EEG timeseries",
-       "Description": "Index of the event in the EEG timeseries"
+       "LongName": "The event onset sample time",
+       "Description": "The event onset time in number of sampling points. First sample is 0."
    }
 }
