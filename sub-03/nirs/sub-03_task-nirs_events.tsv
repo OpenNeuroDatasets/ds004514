@@ -269,7 +269,7 @@ onset	duration	trial_type	value	sample	stim_file
 780.16	n/a	animal_silent_naming_task	601	6095	n/a
 783.232	n/a	blank_black_screen	706	6119	n/a
 785.152	n/a	fixation_cross	312	6134	n/a
-786.944	n/a	tool_image	1	6148	tools/сorkscrew_PNG43.png
+786.944	n/a	tool_image	1	6148	tools/corkscrew_PNG43.png
 787.456	n/a	mask	701	6152	n/a
 788.096	n/a	blank_white_screen	705	6157	n/a
 788.608	n/a	tool_tactile_imagery_task	604	6161	n/a
@@ -469,7 +469,7 @@ onset	duration	trial_type	value	sample	stim_file
 1154.688	n/a	animal_visual_imagery_task	602	9021	n/a
 1157.632	n/a	blank_black_screen	706	9044	n/a
 1159.68	n/a	fixation_cross	312	9060	n/a
-1161.088	n/a	tool_image	1	9071	tools/сorkscrew_PNG43.png
+1161.088	n/a	tool_image	1	9071	tools/corkscrew_PNG43.png
 1161.728	n/a	mask	701	9076	n/a
 1162.368	n/a	blank_white_screen	705	9081	n/a
 1162.752	n/a	tool_tactile_imagery_task	604	9084	n/a
@@ -553,7 +553,7 @@ onset	duration	trial_type	value	sample	stim_file
 1277.568	n/a	tool_visual_imagery_task	602	9981	n/a
 1280.64	n/a	blank_black_screen	706	10005	n/a
 1282.56	n/a	fixation_cross	312	10020	n/a
-1284.224	n/a	tool_image	1	10033	tools/сorkscrew_PNG43.png
+1284.224	n/a	tool_image	1	10033	tools/corkscrew_PNG43.png
 1284.736	n/a	mask	701	10037	n/a
 1285.376	n/a	blank_white_screen	705	10042	n/a
 1285.888	n/a	tool_tactile_imagery_task	604	10046	n/a
@@ -1257,7 +1257,7 @@ onset	duration	trial_type	value	sample	stim_file
 2667.776	n/a	animal_visual_imagery_task	602	20842	n/a
 2670.848	n/a	blank_black_screen	706	20866	n/a
 2672.896	n/a	fixation_cross	312	20882	n/a
-2674.048	n/a	tool_image	1	20891	tools/сorkscrew_PNG43.png
+2674.048	n/a	tool_image	1	20891	tools/corkscrew_PNG43.png
 2674.688	n/a	mask	701	20896	n/a
 2675.328	n/a	blank_white_screen	705	20901	n/a
 2675.712	n/a	tool_tactile_imagery_task	604	20904	n/a
@@ -1577,7 +1577,7 @@ onset	duration	trial_type	value	sample	stim_file
 3213.184	n/a	animal_visual_imagery_task	602	25103	n/a
 3216.256	n/a	blank_black_screen	706	25127	n/a
 3218.176	n/a	fixation_cross	312	25142	n/a
-3219.456	n/a	tool_image	1	25152	tools/сorkscrew_PNG43.png
+3219.456	n/a	tool_image	1	25152	tools/corkscrew_PNG43.png
 3219.968	n/a	mask	701	25156	n/a
 3220.608	n/a	blank_white_screen	705	25161	n/a
 3221.12	n/a	tool_silent_naming_task	601	25165	n/a
